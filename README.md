@@ -1,8 +1,8 @@
 # Gaussian-Naive-bayes-from-scratch
 
-The whole purpose of this code is just to understand the Naive bayes algorithm. 
+In the above notebook Naive Bayes algorithm is used to model and predict the Iris dataset. This notebook helps to visualize and comprehend each step right from bayes theorem to predicting the Iris dataset.   
 
-In this code iris flower dataset has been taken and Naive bayes algorithm is applied on this dataset using Numpy and pandas library. At the end we compare our accuracy with the accuracy with scikit library.
+Notebook is very much self explainatory.
 
 
 **This code is only intended to understand the algorithm 
